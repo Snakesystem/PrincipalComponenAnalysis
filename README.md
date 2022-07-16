@@ -1,4 +1,4 @@
-# Principal Component Analysyst
+# Principal Component Analysist
 Dokumentasi pembelajaran machine learning Dimentionality Reduction
 
 ### Introduction
