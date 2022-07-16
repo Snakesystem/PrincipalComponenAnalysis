@@ -1,0 +1,2 @@
+# PrincipalComponenAnalysyst
+Dokumentasi pembelajaran machine learning Dimentionality Reduction
